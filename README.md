@@ -6,8 +6,5 @@
 hahhahahah
 
 
-<<<<<<< HEAD
 9.8给master添加内容
-=======
 我在这里新增一点prop的数据  --prop
->>>>>>> prop
